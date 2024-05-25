@@ -1,5 +1,6 @@
-<h1>BÁO CÁO KIỂM THỬ API</h1>
-
+<div class="center-text">
+    <h1>BÁO CÁO KIỂM THỬ API</h1>
+</div>
 <p1>Tên Dự Án: Test Collection of APIs</p1>
 <p1>Ngày Kiểm Thử: 24/05/2024</p1>
 <p1>Người Kiểm Thử: Giang Thành An</p1>
