@@ -1,7 +1,7 @@
 <div class="center-text">
     <h1>BÁO CÁO KIỂM THỬ API</h1>
 </div>
-<p1>Tên Dự Án: Test Collection of APIs</p1>
+<p>Tên Dự Án: Test Collection of APIs</p>
 <p2>Ngày Kiểm Thử: 24/05/2024</p2>
 <p3>Người Kiểm Thử: Giang Thành An</p3>
 1. Mục Tiêu Kiểm Thử: Sử dụng Postman để kiểm thử một API thực tế
