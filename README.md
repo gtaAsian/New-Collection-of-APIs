@@ -1,24 +1,29 @@
-<div class="center-text">
+<div class="content">
     <h1>BÁO CÁO KIỂM THỬ API</h1>
+    <ol>
+        <p><strong>Tên Dự Án:</strong> Test Collection of APIs</p>
+        <p><strong>Ngày Kiểm Thử:</strong> 24/05/2024</p>
+        <p>strong>Người Kiểm Thử:</strong> Giang Thành An</p>
+        <p><strong>1. Mục Tiêu Kiểm Thử:</strong> Sử dụng Postman để kiểm thử một API thực tế</p>
+        <p><strong>2. Môi Trường Kiểm Thử:</strong> Postman.</p>
+        <p><strong>3. Phương Pháp Kiểm Thử:</strong> Kiểm thử tự động và thủ công trên phần mềm Postman.</p>
+        4.
+         <strong>Kịch Bản Kiểm Thử Lần 1:</strong>
+            <ul>
+            <li><p>Tên Kịch Bản: Kiểm thử cơ bản của 1 URL</p></li>
+            <li><p>Mục Đích: Test khả năng hoạt động của URL và phần mềm Postman</p></li>
+            <li><p>Phương Thức HTTP (GET/POST/PUT/DELETE): GET</p></li>
+            <li><p>URL: https://random-data-api.com/api/v2/</p></li>
+            <li><p>Tham Số: users?size=2&is_xml=true</p></li>
+            <li><p>Kết Quả Mong Đợi: Gửi yêu cầu thành công</p></li>
+            <li><p>Kết Quả Thực Tế: Đã gửi yêu cầu thành công</p></li>
+            <li><p>Kết quả sau khi kiểm thử:</p></li>
+            <img width="468" alt="image" src="https://github.com/gtaAsian/New-Collection-of-APIs/assets/170786444/c340d30f-fea5-4f45-b752-369a1f066f80">
+            <li><p>Kết quả kiểm thử chi tiết:</p></li>
+            </ul>
+        </li>
+    </ol>
 </div>
-<p>Tên Dự Án: Test Collection of APIs</p>
-<p>Ngày Kiểm Thử: 24/05/2024</p>
-<p>Người Kiểm Thử: Giang Thành An</p>
-1. Mục Tiêu Kiểm Thử: Sử dụng Postman để kiểm thử một API thực tế
-2. Môi Trường Kiểm Thử: Postman.
-3. Phương Pháp Kiểm Thử: Kiểm thử tự động và thủ công trên phần mềm Postman.
-4. 
-Kịch Bản Kiểm Thử Lần 1:
-Tên Kịch Bản: Kiểm thử cơ bản của 1 URL
-Mục Đích: Test khả năng hoạt động của URL và phần mềm Postman
-Phương Thức HTTP (GET/POST/PUT/DELETE): GET
-URL: https://random-data-api.com/api/v2/
-Tham Số: users?size=2&is_xml=true
-Dữ Liệu Gửi Đi : Không có 
-Kết Quả Mong Đợi: Gửi yêu cầu thành công
-Kết Quả Thực Tế: Đã gửi yêu cầu thành công
-Kết quả sau khi kiểm thử:  
-Kết quả kiểm thử chi tiết: 
 [
     {
         "id": 9209,
