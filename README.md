@@ -3,7 +3,7 @@
     <ol>
         <p><strong>Tên Dự Án:</strong> Test Collection of APIs</p>
         <p><strong>Ngày Kiểm Thử:</strong> 24/05/2024</p>
-        <p>strong>Người Kiểm Thử:</strong> Giang Thành An</p>
+        <p><strong>Người Kiểm Thử:</strong> Giang Thành An</p>
         <p><strong>1. Mục Tiêu Kiểm Thử:</strong> Sử dụng Postman để kiểm thử một API thực tế</p>
         <p><strong>2. Môi Trường Kiểm Thử:</strong> Postman.</p>
         <p><strong>3. Phương Pháp Kiểm Thử:</strong> Kiểm thử tự động và thủ công trên phần mềm Postman.</p>
