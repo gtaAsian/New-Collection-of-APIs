@@ -2,8 +2,8 @@
     <h1>BÁO CÁO KIỂM THỬ API</h1>
 </div>
 <p1>Tên Dự Án: Test Collection of APIs</p1>
-<p1>Ngày Kiểm Thử: 24/05/2024</p1>
-<p1>Người Kiểm Thử: Giang Thành An</p1>
+<p2>Ngày Kiểm Thử: 24/05/2024</p2>
+<p3>Người Kiểm Thử: Giang Thành An</p3>
 1. Mục Tiêu Kiểm Thử: Sử dụng Postman để kiểm thử một API thực tế
 2. Môi Trường Kiểm Thử: Postman.
 3. Phương Pháp Kiểm Thử: Kiểm thử tự động và thủ công trên phần mềm Postman.
