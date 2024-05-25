@@ -21,6 +21,7 @@
             <li><p>Kết quả sau khi kiểm thử:</p></li>
             <img width="468" alt="image" src="https://github.com/gtaAsian/New-Collection-of-APIs/assets/170786444/c340d30f-fea5-4f45-b752-369a1f066f80">
             <li><p>Kết quả kiểm thử chi tiết:</p></li>
+            </ul>
     
     [
         {  
@@ -103,19 +104,21 @@
             }
         }
     ]
-
-Kịch Bản Kiểm Thử Lần 2:
-•	Tên Kịch Bản: Kiểm thử cơ bản của 1 URL với một tham số
-•	Mục Đích: Test khả năng hoạt động của URL và phần mềm Postman
-•	Phương Thức HTTP (GET/POST/PUT/DELETE): GET
-•	URL: https://random-data-api.com/api/v2/
-•	Tham Số: beerType=light
-•	Dữ Liệu Gửi Đi : Không có 
-•	Kết Quả Mong Đợi: Gửi yêu cầu thành công
-•	Kết Quả Thực Tế: Gửi yêu cầu thất bại
-•	Kết quả:  
-•	Chi tiết kết quả: 
-
+<div>    
+    <strong>Kịch Bản Kiểm Thử Lần 2:</strong>
+            <ul>
+            <li><p>Tên Kịch Bản: Kiểm thử cơ bản của một URL với một tham số</p></li>
+            <li><p>Mục Đích: Test khả năng hoạt động của URL và phần mềm Postman</p></li>
+            <li><p>Phương Thức HTTP (GET/POST/PUT/DELETE): GET</p></li>
+            <li><p>URL: https://random-data-api.com/api/v2/</p></li>
+            <li><p>Tham Số: beerType=light</p></li>
+            <li><p>Kết Quả Mong Đợi: Gửi yêu cầu thành công</p></li>
+            <li><p>Kết Quả Thực Tế: Gửi yêu cầu thất bại</p></li>
+            <li><p>Trạng Thái: Không thành công</p></li>
+            <li><p>Kết quả sau khi kiểm thử:</p></li>
+            <img width="468" alt="image" src="https://github.com/gtaAsian/New-Collection-of-APIs/assets/170786444/47657a68-c2ce-4826-80db-863977b71169">
+            <li><p>Kết quả kiểm thử chi tiết:</p></li>
+            </ul>
 
 
     <!DOCTYPE html>
@@ -175,52 +178,60 @@ Kịch Bản Kiểm Thử Lần 2:
             }
         </style>
     </head>
-
-<body class="rails-default-error-page">
-    <!-- This file lives in public/404.html -->
-    <div class="dialog">
-        <div>
-            <h1>The page you were looking for doesn't exist.</h1>
-            <p>You may have mistyped the address or the page may have moved.</p>
+    <body class="rails-default-error-page">
+        <!-- This file lives in public/404.html -->
+        <div class="dialog">
+            <div>
+                <h1>The page you were looking for doesn't exist.</h1>
+                <p>You may have mistyped the address or the page may have moved.</p>
+            </div>
+            <p>If you are the application owner check the logs for more information.</p>
         </div>
-        <p>If you are the application owner check the logs for more information.</p>
-    </div>
-</body>
+    </body>
 
-</html>
-Kịch Bản Kiểm Thử Lần 3:
-•	Tên Kịch Bản: Kiểm thử lại lần 2
-•	Mục Đích: Test khả năng hoạt động của URL và phần mềm Postman
-•	Phương Thức HTTP (GET/POST/PUT/DELETE): GET
-•	URL: https://random-data-api.com/api/v2/beers?
-•	Tham Số: beerType=light
-•	Dữ Liệu Gửi Đi : Không có 
-•	Kết Quả Mong Đợi: Gửi yêu cầu thành công
-•	Kết quả thực tế: Gửi yêu cầu thành công
-•	Kết quả:  <img width="468" alt="image" src="https://github.com/gtaAsian/New-Collection-of-APIs/assets/170786444/17fa1d2a-245a-4b83-969d-9c4721a436c3">
+    </html>
+<div>
+    <strong>Kịch Bản Kiểm Thử Lần 1:</strong>
+            <ul>
+            <li><p>Tên Kịch Bản: Kiểm thử cơ bản của 1 URL với một tham số truyền vào</p></li>
+            <li><p>Mục Đích: Test khả năng hoạt động của URL và phần mềm Postman</p></li>
+            <li><p>Phương Thức HTTP (GET/POST/PUT/DELETE): GET</p></li>
+            <li><p>URL: https://random-data-api.com/api/v2/</p></li>
+            <li><p>Tham Số: beerType=light</p></li>
+            <li><p>Kết Quả Mong Đợi: Gửi yêu cầu thành công</p></li>
+            <li><p>Kết Quả Thực Tế: Đã gửi yêu cầu thành công</p></li>
+            <li><p>Trạng Thái: Thành công</p></li>
+            <li><p>Kết quả sau khi kiểm thử:</p></li>
+            <img width="468" alt="image" src="https://github.com/gtaAsian/New-Collection-of-APIs/assets/170786444/4704b95c-115c-4e24-aa8a-2aeee5339fba">
+            <li><p>Kết quả kiểm thử chi tiết:</p></li>
+            </ul>
+</div>
 
-•	Chi tiết kết quả: 
-{
-    "id": 4908,
-    "uid": "16d508f9-8757-491d-b8c9-4b980932f637",
-    "brand": "Leffe",
-    "name": "Sapporo Premium",
-    "style": "Strong Ale",
-    "hop": "Newport",
-    "yeast": "1098 - British Ale",
-    "malts": "Roasted barley",
-    "ibu": "82 IBU",
-    "alcohol": "2.1%",
-    "blg": "12.8°Blg"
-}
-5. Kết Quả Kiểm Thử: Tóm tắt kết quả kiểm thử, bao gồm số lượng kịch bản kiểm thử đã chạy, số lượng thành công, số lượng thất bại, và tỷ lệ thành công.
-Số lượng kịch bản đã kiểm thử: 3
-Số lần thành công: 2
-Số lần thất bại: 1
-Tỉ lệ thành công: 75%
-6. Phát Hiện Lỗi:  Chi tiết về lỗi, bao gồm:
-•	ID Lỗi: 404 Not Found
-•	Mô Tả Lỗi: Trang bạn đang tìm kiếm không tồn tại (404)
-•	Mức Độ Ảnh Hưởng: Không
-•	Ghi Chú/Đề Xuất: Sai URL và tham số
-![image](https://github.com/gtaAsian/New-Collection-of-APIs/assets/170786444/cf502ce3-765d-4cc7-94e7-cb13abb556c1)
+        {
+            "id": 4908,
+            "uid": "16d508f9-8757-491d-b8c9-4b980932f637",
+            "brand": "Leffe",
+            "name": "Sapporo Premium",
+            "style": "Strong Ale",
+            "hop": "Newport",
+            "yeast": "1098 - British Ale",
+            "malts": "Roasted barley",
+            "ibu": "82 IBU",
+            "alcohol": "2.1%",
+            "blg": "12.8°Blg"
+        }
+        
+<p><strong>5. Kết Quả Kiểm Thử:</strong> Tóm tắt kết quả kiểm thử, bao gồm số lượng kịch bản kiểm thử đã chạy, số lượng thành công, số lượng thất bại, và tỷ lệ thành công.</p>
+<ul>
+<li><p>Số lượng kịch bản đã kiểm thử: 3</p></li>
+<li><p>Số lần thành công: 2</p></li>
+<li><p>Số lần thất bại: 1</p></li>
+<li><p>Tỉ lệ thành công: 75%</p></li>
+</ul>
+<p><strong>6. Phát Hiện Lỗi:</strong>  Chi tiết về lỗi, bao gồm:</p>
+<ul>
+<li><p>ID Lỗi: 404 Not Found</p></li>
+<li><p>Mô Tả Lỗi: Trang bạn đang tìm kiếm không tồn tại (404)</p></li>
+<li><p>Mức Độ Ảnh Hưởng: Không</p></li>
+<li><p>Ghi Chú/Đề Xuất: Sai URL và tham số</p></li>
+</ul>
